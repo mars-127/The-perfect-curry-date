@@ -1,0 +1,9 @@
+# Requirements
+## Installing pygame
+In the bash install pygame library with:
+[pip install pygame]
+
+## Configure assets
+1. Pixel art assets: Art sprites
+2. Sound effects: background music and motion sound effects
+
